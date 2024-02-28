@@ -54,3 +54,17 @@
     </body>
 
 4.  Kai nezinai is kur yra resursas, dedame #
+
+5.  Kaip pakeisti WEB skaicius? DNS susieti www. puslapis.lt -> DNS -> pasako koks adresas
+    protokolas://ip-adresas:port
+
+    SERVERIS -> linux (OS) ->nodejs -> js (backend)
+    http://localhost:8080/, todel noresiu koreguoti port dalis
+
+    "scripts": {
+    "dev": "dead-server --host=localhost --port=4905", package.json
+
+6.  STILIUS
+    Pirma stiliaus savybe:
+
+<h1 style="pavadinimas kaip sugalvojau">404</h1>
