@@ -26,3 +26,31 @@
     - topics (aka hastag)
     - release (nuimti varnele)
     - packages (nuimti varnele)
+
+---
+
+1.  Projekto pasileidimas $ npm run dev (atsidaro web langas)
+2.  index.html:
+
+-   <title> keiciu pavadinima </title>
+
+-   <html lang="en"> kalbos keitimas
+
+-   <body> CONTENT (Didz.r. rodo jog PLACE HOLDER, laikinas turinys) Cia reikes atvaizduoti savo dizaina
+-   <head> skirtas informacijai apie psl
+-   <meta name=" viewport"> rodo web balta lauka
+
+3.  Kaip susikurti du elementus, kuriuose detalizuosim dizaina
+    <body>
+       <div></div>
+          TEKSTAI: <h1>pati svarbiausia antraste</h1>
+
+          <p>Paragrafas</p>
+
+          <a href = "#">Go to home</a>
+
+       <div></div>
+          NUOTRAUKA: img src="#"- cia yra sorce, alt=" ka nuotrauka atvaizduoja"
+    </body>
+
+4.  Kai nezinai is kur yra resursas, dedame #
